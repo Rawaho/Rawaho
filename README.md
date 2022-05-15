@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer working in FinTech who is interested in all things emulation.</h3>
 
 🔭 Emulators I’m currently working on:
-- [NexusForever](https://emulator.ws/)
+- [NexusForever](https://github.com/NexusForever/NexusForever)
 - [Fera](https://github.com/Rawaho/Fera)
 
 💬 Ask me about:
