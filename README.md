@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer working in FinTech who is interested in all things emulation.</h3>
 
 🔭 Emulators I’m currently working on:
-- [NexusForever](https://github.com/NexusForever/NexusForever)
+- [NexusForever](https://github.com/NexusForever/NexusForever) - An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch).
 
 💬 Ask me about:
 - Emulation, especially around MMO emulation and reverse engineering.
